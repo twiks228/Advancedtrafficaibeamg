@@ -39,4 +39,8 @@ The AI actually sees what you are doing with your car's electrics:
 *   **Dynamic Speed Limits:** AI calculates safe speeds based on road width, upcoming curves (slows down for sharp turns), and steep hills.
 *   **Virtual Signals & Right-of-Way:** Generates virtual traffic lights and stop signs at intersections. Understands the "Right-Hand Rule" (помеха справа) and cross-traffic yielding.
 *   **Lane Discipline:** AI overtakes slow vehicles safely (checking oncoming traffic) and balances lane queues.
-
+📦 Installation
+Download the latest version.zip.
+Place the TrafficAI folder in the BeamNG.drive mods folder (usually located at C:\Users\YourUser\AppData\Local\BeamNG\BeamNG.drive\current\mods\unpacked).
+Turn on the mod in the game mod manager.
+Create traffic as usual (Radial Menu > Artificial Intelligence > Traffic > Creation). The mod automatically captures the created vehicles.

@@ -1,0 +1,9 @@
+{
+  "name": "Advanced Traffic AI Overhaul",
+  "version": "3.0.0",
+  "author": "TrafficAI_Dev",
+  "description": "Complete traffic AI overhaul with personality system, look-ahead logic, realistic merging, police tactics, weather adaptation, and much more.",
+  "beamng_version": "0.38.3",
+  "type": "mod",
+  "categories": ["gameplay", "ai", "traffic"]
+}
